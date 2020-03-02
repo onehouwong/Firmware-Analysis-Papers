@@ -31,6 +31,6 @@ This repository collects recent papers related to firmware analysis (e.g., IoT a
 
 [Firmalice-automatic detection of authentication bypass vulnerabilities in binary firmware](https://www.ndss-symposium.org/wp-content/uploads/2017/09/11_1_2.pdf) (*NDSS*)
 
-[Firmusb: Vetting USB device firmware using domain informed symbolic execution](https://dl.acm.org/doi/pdf/10.1145/3133956.3134050?casa_token=-IZnimW7YnQAAAAA:eeCVE2j2kodCmp95kiGzk0c5uYDU0ht_CQwqqBJ3Bbn3NP-jFoxtpCbWc4vuqbgZ6KMfS-yQpPok）(*CCS*)
+[Firmusb: Vetting USB device firmware using domain informed symbolic execution](https://dl.acm.org/doi/pdf/10.1145/3133956.3134050?casa_token=-IZnimW7YnQAAAAA:eeCVE2j2kodCmp95kiGzk0c5uYDU0ht_CQwqqBJ3Bbn3NP-jFoxtpCbWc4vuqbgZ6KMfS-yQpPok) (*CCS*)
 
 [Towards Automated Dynamic Analysis for Linux-based Embedded Firmware](https://www.ndss-symposium.org/wp-content/uploads/2017/09/towards-automated-dynamic-analysis-linux-based-embedded-firmware.pdf) (*NDSS*)
