@@ -13,14 +13,14 @@ This repository collects recent papers related to firmware analysis (e.g., IoT a
 [KARONTE: Detecting Insecure Multi-binary Interactions in Embedded Firmware](https://www.conand.me/publications/redini-karonte-2020.pdf) (*IEEE S&P*)
 
 
-2019 (NDSS, USENIX Security)
+2019
 ------
 [PeriScope: An Effective Probing and Fuzzing Framework for the Hardware-OS Boundary](https://www.cspensky.info/pdfs/ndss2019_04A-1_Song_paper.pdf) (*NDSS*)
 
 [FIRM-AFL: high-throughput greybox fuzzing of iot firmware via augmented process emulation](https://www.usenix.org/system/files/sec19-zheng_0.pdf) (*USENIX Security*)
 
 
-2018 (NDSS)
+2018
 ------
 [IoTFuzzer: Discovering Memory Corruptions in IoT Through App-based Fuzzing](https://staff.ie.cuhk.edu.hk/~khzhang/my-papers/2018-ndss-iot.pdf) (*NDSS*)
 
