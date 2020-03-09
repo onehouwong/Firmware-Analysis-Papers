@@ -27,10 +27,14 @@ This repository collects recent papers related to firmware analysis (e.g., IoT a
 
 2017 and Before
 ------
-[AVATAR: A Framework to Support Dynamic Security Analysis of Embedded Systems' Firmwares](https://www.researchgate.net/profile/Jonas_Zaddach/publication/269197057_Avatar_A_Framework_to_Support_Dynamic_Security_Analysis_of_Embedded_Systems'_Firmwares/links/5e0b2725299bf10bc3852355/Avatar-A-Framework-to-Support-Dynamic-Security-Analysis-of-Embedded-Systems-Firmwares.pdf) （*NDSS*）
+[AVATAR: A Framework to Support Dynamic Security Analysis of Embedded Systems' Firmwares](https://www.researchgate.net/profile/Jonas_Zaddach/publication/269197057_Avatar_A_Framework_to_Support_Dynamic_Security_Analysis_of_Embedded_Systems'_Firmwares/links/5e0b2725299bf10bc3852355/Avatar-A-Framework-to-Support-Dynamic-Security-Analysis-of-Embedded-Systems-Firmwares.pdf) （*NDSS* 2014）
 
-[Firmalice-automatic detection of authentication bypass vulnerabilities in binary firmware](https://www.ndss-symposium.org/wp-content/uploads/2017/09/11_1_2.pdf) (*NDSS*)
+[Firmalice-automatic detection of authentication bypass vulnerabilities in binary firmware](https://www.ndss-symposium.org/wp-content/uploads/2017/09/11_1_2.pdf) (*NDSS* 2017)
 
-[Firmusb: Vetting USB device firmware using domain informed symbolic execution](https://dl.acm.org/doi/pdf/10.1145/3133956.3134050?casa_token=-IZnimW7YnQAAAAA:eeCVE2j2kodCmp95kiGzk0c5uYDU0ht_CQwqqBJ3Bbn3NP-jFoxtpCbWc4vuqbgZ6KMfS-yQpPok) (*CCS*)
+[Firmusb: Vetting USB device firmware using domain informed symbolic execution](https://dl.acm.org/doi/pdf/10.1145/3133956.3134050?casa_token=-IZnimW7YnQAAAAA:eeCVE2j2kodCmp95kiGzk0c5uYDU0ht_CQwqqBJ3Bbn3NP-jFoxtpCbWc4vuqbgZ6KMfS-yQpPok) (*CCS* 2017)
 
-[Towards Automated Dynamic Analysis for Linux-based Embedded Firmware](https://www.ndss-symposium.org/wp-content/uploads/2017/09/towards-automated-dynamic-analysis-linux-based-embedded-firmware.pdf) (*NDSS*)
+[Towards Automated Dynamic Analysis for Linux-based Embedded Firmware](https://www.ndss-symposium.org/wp-content/uploads/2017/09/towards-automated-dynamic-analysis-linux-based-embedded-firmware.pdf) (*NDSS* 2017)
+
+[FIE on Firmware:Finding Vulnerabilities in Embedded Systems using Symbolic Execution](https://www.usenix.org/system/files/conference/usenixsecurity13/sec13-paper_davidson.pdf) (*USENIX Security* 2013)
+
+[A large-scale analysis of the security of embedded firmwares](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-costin.pdf) (*USENIX Security* 2014)
