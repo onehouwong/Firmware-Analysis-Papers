@@ -19,6 +19,7 @@ This repository collects recent papers related to firmware analysis (e.g., IoT a
 
 [FIRM-AFL: high-throughput greybox fuzzing of iot firmware via augmented process emulation](https://www.usenix.org/system/files/sec19-zheng_0.pdf) (*USENIX Security*)
 
+[Toward the Analysis of Embedded Firmware through Automated Re-hosting](https://www.usenix.org/system/files/raid2019-gustafson.pdf) (*RAID*)
 
 2018
 ------
