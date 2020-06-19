@@ -6,7 +6,7 @@ This repository collects recent papers related to firmware analysis (e.g., IoT a
 ------
 [HALucinator: Firmware Re-hostingThrough Abstraction Layer Emulation](http://www.nebelwelt.net/publications/files/20SEC2.pdf) (*USENIX Security*)
 
-[FirmScope: Automatic Uncovering of Privilege-Escalation Vulnerabilities in Android Firmware]() (*USENIX Security*)
+[FirmScope: Automatic Uncovering of Privilege-Escalation Vulnerabilities in Android Firmware](https://www.usenix.org/system/files/sec20fall_elsabagh_prepub.pdf) (*USENIX Security*)
 
 [P2IM: Scalable and Hardware-independent Firmware Testing via Automatic Peripheral Interface Modeling](https://www.usenix.org/system/files/sec20spring_feng_prepub_0.pdf) (*USENIX Security*)
 
