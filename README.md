@@ -21,6 +21,8 @@ This repository collects recent papers related to firmware analysis (e.g., IoT a
 
 [Toward the Analysis of Embedded Firmware through Automated Re-hosting](https://www.usenix.org/system/files/raid2019-gustafson.pdf) (*RAID*)
 
+[ProXray: Protocol Model Learning and GuidedFirmware Analysis](https://ieeexplore.ieee.org/document/8823941) (IEEE Transactions on Software Engineering)
+
 2018
 ------
 [IoTFuzzer: Discovering Memory Corruptions in IoT Through App-based Fuzzing](https://staff.ie.cuhk.edu.hk/~khzhang/my-papers/2018-ndss-iot.pdf) (*NDSS*)
