@@ -5,7 +5,7 @@ This repository collects recent papers related to firmware analysis (e.g., IoT a
 2021
 ------
 
-[DICE: Automatic Emulation of DMA Input Channels for Dynamic Firmware Analysis] (https://arxiv.org/pdf/2007.01502.pdf) (*IEEE S&P*)
+[DICE: Automatic Emulation of DMA Input Channels for Dynamic Firmware Analysis](https://arxiv.org/pdf/2007.01502.pdf) (*IEEE S&P*)
 
 2020
 ------
