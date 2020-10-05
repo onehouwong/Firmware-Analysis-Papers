@@ -2,8 +2,18 @@
 
 This repository collects recent papers related to firmware analysis (e.g., IoT and embedded devices, desktop binaries). The list of papers is organized in chronological order.
 
+2021
+------
+
+[DICE: Automatic Emulation of DMA Input Channels for Dynamic Firmware Analysis] (https://arxiv.org/pdf/2007.01502.pdf) (*IEEE S&P*)
+
 2020
 ------
+
+[FirmAE: Towards Large-Scale Emulation of IoT Firmware for Dynamic Analysis]() (*ACSAC*)
+
+[FirmXRay: Detecting Bluetooth Link Layer Vulnerabilities from Bare-Metal Firmware](http://web.cse.ohio-state.edu/~wen.423/papers/ccs20_FirmXRay) (*CCS*)
+
 [HALucinator: Firmware Re-hostingThrough Abstraction Layer Emulation](http://www.nebelwelt.net/publications/files/20SEC2.pdf) (*USENIX Security*)
 
 [FirmScope: Automatic Uncovering of Privilege-Escalation Vulnerabilities in Android Firmware](https://www.usenix.org/system/files/sec20fall_elsabagh_prepub.pdf) (*USENIX Security*)
