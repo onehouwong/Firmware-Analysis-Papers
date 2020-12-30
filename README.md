@@ -10,7 +10,7 @@ This repository collects recent papers related to firmware analysis (e.g., IoT a
 2020
 ------
 
-[FirmAE: Towards Large-Scale Emulation of IoT Firmware for Dynamic Analysis]() (*ACSAC*)
+[FirmAE: Towards Large-Scale Emulation of IoT Firmware for Dynamic Analysis](https://dl.acm.org/doi/pdf/10.1145/3427228.3427294?casa_token=Hvww4u8AhEIAAAAA:1gRGOwnS5uVZApx8c3XcdWrKgpns99d9i2UB5PkZEeS44wZKYLSY0ETB3Vmax1FaJJ7t_uo15VjHAw) (*ACSAC*)
 
 [FirmXRay: Detecting Bluetooth Link Layer Vulnerabilities from Bare-Metal Firmware](http://web.cse.ohio-state.edu/~wen.423/papers/ccs20_FirmXRay) (*CCS*)
 
