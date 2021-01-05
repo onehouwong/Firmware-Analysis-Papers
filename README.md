@@ -14,6 +14,8 @@ This repository collects recent papers related to firmware analysis (e.g., IoT a
 
 [FirmXRay: Detecting Bluetooth Link Layer Vulnerabilities from Bare-Metal Firmware](http://web.cse.ohio-state.edu/~wen.423/papers/ccs20_FirmXRay) (*CCS*)
 
+[Frankenstein: Advanced Wireless Fuzzing toExploit New Bluetooth Escalation Targets](https://www.usenix.org/system/files/sec20-ruge.pdf) (*USENIX Security*)
+
 [HALucinator: Firmware Re-hostingThrough Abstraction Layer Emulation](http://www.nebelwelt.net/publications/files/20SEC2.pdf) (*USENIX Security*)
 
 [FirmScope: Automatic Uncovering of Privilege-Escalation Vulnerabilities in Android Firmware](https://www.usenix.org/system/files/sec20fall_elsabagh_prepub.pdf) (*USENIX Security*)
