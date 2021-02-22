@@ -5,7 +5,7 @@ This repository collects recent papers related to firmware analysis (e.g., IoT a
 2021
 ------
 
-[HERA: Hotpatching of Embedded Real-time Applications](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_6B-2_24159_paper.pdf) (*NDSS*)
+[HERA: Hotpatching of Embedded Real-time Applications](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_6B-2_24159_paper.pdf) (*NDSS* )
 
 [BASESPEC: Comparative Analysis of Baseband Software and Cellular Specifications for L3 Protocols](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_6B-4_24365_paper.pdf) (*NDSS*)
 
