@@ -1,6 +1,6 @@
 # Firmware-Analysis-Papers
 
-This repository collects recent papers related to firmware analysis (e.g., IoT and embedded devices, desktop binaries). The list of papers is organized in chronological order.
+This repository collects recent papers related to firmware analysis (e.g., IoT and embedded devices, desktop binaries) published in academic security conferences (NDSS, CCS, USENIX Security, IEEE S&P, etc.). The list of papers is organized in chronological order.
 
 2021
 ------
