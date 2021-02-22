@@ -5,7 +5,7 @@ This repository collects recent papers related to firmware analysis (e.g., IoT a
 2021
 ------
 
-[BASESPEC: Comparative Analysis of Baseband Software and Cellular Specifications for L3 Protocols](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_6B-4_24365_paper.pdf) (*NDSS)
+[BASESPEC: Comparative Analysis of Baseband Software and Cellular Specifications for L3 Protocols](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_6B-4_24365_paper.pdf) (*NDSS*)
 
 [From Library Portability to Para-rehosting: Natively Executing Microcontroller Software on Commodity Hardware](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_6B-3_24308_paper.pdf) (*NDSS*)
 
