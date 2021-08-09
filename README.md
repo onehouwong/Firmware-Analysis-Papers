@@ -5,6 +5,10 @@ This repository collects recent papers related to firmware analysis (e.g., IoT a
 2021
 ------
 
+[Jetset: Targeted Firmware Rehosting for Embedded Systems](https://www.usenix.org/system/files/sec21fall-johnson.pdf) (*USENIX Security*)
+
+[Automatic Firmware Emulation through Invalidity-guided Knowledge Inference](https://www.usenix.org/system/files/sec21fall-zhou.pdf) (*USENIX Security*)
+
 [SoK: Enabling Security Analyses of Embedded Systems via Rehosting](https://seclab.bu.edu/papers/rehosting-sok-asiaccs2021.pdf) (*Asia CCS*)
 
 [HERA: Hotpatching of Embedded Real-time Applications](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_6B-2_24159_paper.pdf) (*NDSS* )
