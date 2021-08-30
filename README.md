@@ -4,6 +4,11 @@ This repository collects recent papers related to firmware analysis (e.g., IoT a
 
 2021
 ------
+[LightBLue: Automatic Profile-Aware Debloating of Bluetooth Stacks](https://www.usenix.org/system/files/sec21-wu-jianliang.pdf) (*USENIX Security*)
+
+[Sharing More and Checking Less: Leveraging Common Input Keywords to Detect Bugs in Embedded Systems](https://www.usenix.org/system/files/sec21-chen-libo.pdf)(*USENIX Security*)
+
+[PASAn: Detecting Peripheral Access Concurrency Bugs within Bare-Metal Embedded Applications](https://www.usenix.org/system/files/sec21-kim.pdf) (*USENIX Security*)
 
 [Jetset: Targeted Firmware Rehosting for Embedded Systems](https://www.usenix.org/system/files/sec21fall-johnson.pdf) (*USENIX Security*)
 
